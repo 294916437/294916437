@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi👋,I'm Asams Morgan 
+Glad to meet you , welcome to view my profile,many fun things can be found here
 
-<!--
-**294916437/294916437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 技术栈
+- **SKills**：TypeScript、Python、Java
+- **Front-end**：React, Next.js, Vue.js
+- **Back-end**：Node.js, NestJS,SpringBoot
+- **Database**：MongoDB, PostgreSQL, MySQL
+- **Others**：Docker, Kubernetes, AWS, Git
 
-Here are some ideas to get you started:
+## 📚 博客
+I love sharing my development experiences and learning insights through blogging. You can find my articles on:
+- [Gmail](asmasmorgan@gmail.com)
+- [codedex](https://www.codedex.io/@kaleidoscope)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 My Pet
+### 30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@kaleidoscope/30-nites-of-code)  
+  ![@kaleidoscope #30NitesOfCode](https://www.codedex.io/api/petStatus?user=kaleidoscope)
+
+## 🌟 统计
+
+Thank you for visiting my GitHub profile! If you like my projects, please give them a ⭐️!
