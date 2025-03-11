@@ -1,12 +1,12 @@
-## Hi👋,I'm Asams Morgan & 桜花树下
-Glad to meet you , welcome to view my profile,many fun things can be found here
+## Hi👋,I'm Theoyu Du & 桜花树下
+Glad to meet you , welcome to my profile ,many fun things can be found here
 
 ## 🚀 技术栈
-- **SKills**：TypeScript、Python、Java
-- **Front-end**：React, Next.js, Vue.js
-- **Back-end**：Node.js, NestJS,SpringBoot
-- **Database**：MongoDB, PostgreSQL, MySQL
-- **Others**：Docker, Kubernetes, AWS, Git
+- **SKills**：TypeScript、Python、Java、Rust
+- **Front-end**：Next.js, Vue.js
+- **Back-end**：Node.js, NestJS, SpringBoot
+- **Database**：MongoDB, PostgreSQL, MySQL, Redis
+- **Others**：Docker, Kubernetes, Cloud Calculate, Tauri Application
 
 ## 📚 博客
 I love sharing my development experiences and learning insights through blogging. You can find my articles on:
