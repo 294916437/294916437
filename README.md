@@ -2,11 +2,11 @@
 Glad to meet you , welcome to my profile ,many fun things can be found here
 
 ## 🚀 技术栈
-- **SKills**：TypeScript、Python、Java、Rust
-- **Front-end**：Next.js, Vue.js
-- **Back-end**：Node.js, NestJS, SpringBoot
-- **Database**：MongoDB, PostgreSQL, MySQL, Redis
-- **Others**：Docker, Kubernetes, Cloud Calculate, Tauri Application
+- **Languages**：TypeScript、Python、Java、Rust
+- **Front-end**：Next.js, Vue.js,ReactJS
+- **Back-end**：Node.js, SpringBoot,Django
+- **Database**：MongoDB, MySQL, Redis
+- **DevOps**：Docker, Kubernetes
 
 ## 📚 博客
 I love sharing my development experiences and learning insights through blogging. You can find my articles on:
