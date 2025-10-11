@@ -1,18 +1,18 @@
 ## Hi👋,I'm Theoyu Du & 桜花树下
-Glad to meet you , welcome to my profile ,many fun things can be found here
+Glad to meet you , welcome to my profile ,just take yourself
 
 ## 🚀 技术栈
 - **Languages**：TypeScript、Python、Java、Rust
-- **Front-end**：Next.js, Vue.js,ReactJS
-- **Back-end**：Node.js, SpringBoot,Django
-- **Database**：MongoDB, MySQL, Redis
-- **DevOps**：Docker, Kubernetes
+- **Front-end**：Next.js、Vue.js、React
+- **Back-end**：SpringBoot、SpringCloud、FastAPI、Node.js
+- **Database**：MongoDB、MySQL、Redis
+- **Middleware**：ElasticSearch、RocketMQ、cassandra、Minio
+- **DevOps**：Docker、Kubernetes
 
 ## 📚 博客
 I love sharing my development experiences and learning insights through blogging. You can find my articles on:
-- [Gmail](asmasmorgan@gmail.com)
 - [codedex](https://www.codedex.io/@kaleidoscope)
-- [桜花树下](https://under-the-cherry-blossom-tree.vercel.app/)
+- [Blog](https://under-the-cherry-blossom-tree.vercel.app/)
 
 ## 🤝 我的宠物
 ### 30NitesOfCode:
