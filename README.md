@@ -1,18 +1,18 @@
 ## Hi👋,I'm Theoyu Du & 桜花树下
-Glad to meet you , welcome to my profile ,just take yourself
+Glad to meet you, welcome to my profile, just take yourself
 
 ## 🚀 技术栈
-- **Languages**：TypeScript、Python、Java、Rust
-- **Front-end**：Next.js、Vue.js、React
+- **Languages**：TypeScript、Java、Python、Rust
+- **Front-end**：Next.js、React、Vue.js
 - **Back-end**：SpringBoot、SpringCloud、FastAPI、Node.js
-- **Database**：MongoDB、MySQL、Redis
-- **Middleware**：ElasticSearch、RocketMQ、cassandra、Minio
+- **Database**：MySQL、MongoDB、Redis
+- **Middleware**：ElasticSearch、RocketMQ、Cassandra、Minio
 - **DevOps**：Docker、Kubernetes
 
 ## 📚 博客
 I love sharing my development experiences and learning insights through blogging. You can find my articles on:
-- [codedex](https://www.codedex.io/@kaleidoscope)
-- [Blog](https://under-the-cherry-blossom-tree.vercel.app/)
+- [Codedex](https://www.codedex.io/@kaleidoscope)
+- [Blog](https://theoyu-blog.vercel.app/)
 
 ## 🤝 我的宠物
 ### 30NitesOfCode:
