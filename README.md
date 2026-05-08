@@ -2,7 +2,7 @@
 Glad to meet you, welcome to my profile, just take yourself
 
 ## 🚀 技术栈
-- **Languages**：TypeScript、Java、Python、Rust
+- **Languages**：JavaScript、TypeScript、Java、Python、Rust
 - **Front-end**：Next.js、React、Vue.js
 - **Back-end**：SpringBoot、SpringCloud、FastAPI、Node.js
 - **Database**：MySQL、MongoDB、Redis
@@ -10,7 +10,7 @@ Glad to meet you, welcome to my profile, just take yourself
 - **DevOps**：Docker、Kubernetes
 
 ## 📚 博客
-I love sharing my development experiences and learning insights through blogging. You can find my articles on:
+I sometimes share my life experiences and insights through blogging. You can find my articles on:
 - [Codedex](https://www.codedex.io/@kaleidoscope)
 - [Blog](https://theoyu-blog.vercel.app/)
 
